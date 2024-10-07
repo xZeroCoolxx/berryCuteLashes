@@ -69,7 +69,7 @@ Error generating stack: `+i.message+`
     margin-top: 10px;
     margin-bottom: 10px;
     width: 100%;
-    height: 40%;
+    height: 60%;
 `,Zw=pt.div`
     align-items: center;
     /* border: solid;
